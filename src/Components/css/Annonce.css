@@ -1,0 +1,19 @@
+.Annonce{
+   content: normal;
+   align-items: center;
+   align-content: center;
+   align-self: center;
+
+
+
+}
+.text-center {
+    background-color: rgb(45, 52, 59);
+    color: rgb(210, 235, 255);
+    float: right;
+    
+    width: 60%;
+    margin: 0 auto ;
+    margin-top: 3%;
+   right: 20%;
+}

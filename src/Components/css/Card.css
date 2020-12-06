@@ -1,0 +1,18 @@
+.Article{
+    
+     
+    float: right;
+    
+    width: 60%;
+    margin: 0 auto ;
+    margin-top: 1%;
+    margin-right: 20%;
+    
+
+}
+
+.Card {
+    
+    background-color: rgb(45, 52, 59);
+    color: rgb(210, 235, 255);
+}
